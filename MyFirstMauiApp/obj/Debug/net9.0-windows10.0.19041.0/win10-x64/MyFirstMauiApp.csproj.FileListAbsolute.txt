@@ -469,3 +469,4 @@ D:\GitRepos\MauiProjects\MyFirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win
 D:\GitRepos\MauiProjects\MyFirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 D:\GitRepos\MauiProjects\MyFirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\GitRepos\MauiProjects\MyFirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\GitRepos\MauiProjects\MyFirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MyFirstMauiApp.sourcelink.json
